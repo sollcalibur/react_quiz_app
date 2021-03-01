@@ -1,4 +1,4 @@
-## REACT QUIZ APP
+## REACT SELF PACED TRAINING ASSESSMENT
 
 Built by Ben Sollano
 
