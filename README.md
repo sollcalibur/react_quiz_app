@@ -1,4 +1,4 @@
-REACT QUIZ APP
+## REACT QUIZ APP
 
 Built by Ben Sollano
 
@@ -10,6 +10,7 @@ Application of what I have learned on my self paced training on January 2019
 
 Utilizes react-bootstrap, react-redux, axios http, react-router-dom
 
+## Project Setup
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
