@@ -1,3 +1,16 @@
+REACT QUIZ APP
+
+Built by Ben Sollano
+
+Built on February 2019 
+
+Initial commit to github 3/1/2021
+
+Application of what I have learned on my self paced training on January 2019
+
+Utilizes react-bootstrap, react-redux, axios http, react-router-dom
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
